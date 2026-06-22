@@ -27,3 +27,9 @@ the `.dmg` asset.
 
 The Tauri updater reads `latest.json` from the latest release tag here and
 prompts the user when a newer version is available.
+
+## License
+
+AppForceps is released under the [MIT License](./LICENSE). The compiled binary
+links against many open-source libraries; their notices are listed in
+[NOTICE.md](./NOTICE.md).
