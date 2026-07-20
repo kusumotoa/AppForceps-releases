@@ -1,6 +1,7 @@
 # AppForceps Releases
 
-Public distribution channel for **AppForceps** — an iOS Data Container Editor built with Tauri.
+Public distribution channel for **AppForceps** — an iOS / Android App Data
+Container Editor built with Tauri.
 
 The source code lives in a private repository
 (`kusumotoa/AppForceps`). This repository hosts the public release artifacts
