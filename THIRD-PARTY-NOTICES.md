@@ -29,7 +29,7 @@ This application directly depends on the following open source software.
 | thiserror | 2.0.18 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.22.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
-| zip | 4.6.1 | MIT | https://github.com/zip-rs/zip2.git |
+| zip | 8.6.0 | MIT | https://github.com/zip-rs/zip2 |
 | flate2 | 1.1.9 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
 | libc | 0.2.186 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | regex | 1.13.0 | MIT OR Apache-2.0 | https://github.com/rust-lang/regex |
