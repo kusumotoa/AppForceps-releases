@@ -3,7 +3,7 @@
 AppForceps は以下のオープンソースソフトウェアを直接利用しています。
 This application directly depends on the following open source software.
 
-(Rust direct dependencies: 29, npm runtime dependencies: 14)
+(Rust direct dependencies: 32, npm runtime dependencies: 14)
 
 ## Rust (Cargo) Dependencies
 
@@ -38,6 +38,9 @@ This application directly depends on the following open source software.
 | rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
 | clap | 4.6.2 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
+| lzfse_rust | 0.2.1 | MIT OR Apache-2.0 | https://github.com/shampoofactory/lzfse_rust |
+| astc-decode | 0.3.1 | Apache-2.0 | https://github.com/wwylele/astc-decode |
+| image | 0.25.10 | MIT OR Apache-2.0 | https://github.com/image-rs/image |
 
 ## JavaScript/TypeScript (npm) Dependencies
 
