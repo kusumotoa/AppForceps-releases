@@ -1,7 +1,7 @@
 # AppForceps Releases
 
 Public distribution channel for **AppForceps** — an iOS / Android App Data
-Container Editor built with Tauri.
+Container Editor.
 
 This repository hosts the public release artifacts
 (DMG, `latest.json`) so they can be installed via Homebrew or downloaded
