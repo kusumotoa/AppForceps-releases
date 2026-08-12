@@ -29,7 +29,7 @@ This application directly depends on the following open source software.
 | thiserror | 2.0.19 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.0 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
-| rustls | 0.23.42 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
+| rustls | 0.23.43 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
 | zip | 8.6.0 | MIT | https://github.com/zip-rs/zip2 |
@@ -38,7 +38,7 @@ This application directly depends on the following open source software.
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.41.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
-| clap | 4.6.4 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
+| clap | 4.6.5 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
 | lzfse_rust | 0.2.1 | MIT OR Apache-2.0 | https://github.com/shampoofactory/lzfse_rust |
 | astc-decode | 0.3.1 | Apache-2.0 | https://github.com/wwylele/astc-decode |
