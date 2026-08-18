@@ -21,13 +21,13 @@ This application directly depends on the following open source software.
 | plist | 1.10.0 | MIT | https://github.com/ebarnard/rust-plist/ |
 | chrono | 0.4.45 | MIT OR Apache-2.0 | https://github.com/chronotope/chrono |
 | dirs | 6.0.0 | MIT OR Apache-2.0 | https://github.com/soc/dirs-rs |
-| rusqlite | 0.40.1 | MIT | https://github.com/rusqlite/rusqlite |
+| rusqlite | 0.40.2 | MIT | https://github.com/rusqlite/rusqlite |
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
 | uuid | 1.24.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
-| thiserror | 2.0.19 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
-| base64 | 0.23.0 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
+| thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
+| base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
 | rustls | 0.23.43 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
@@ -38,7 +38,7 @@ This application directly depends on the following open source software.
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.41.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
-| clap | 4.6.5 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
+| clap | 4.6.6 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
 | lzfse_rust | 0.2.1 | MIT OR Apache-2.0 | https://github.com/shampoofactory/lzfse_rust |
 | astc-decode | 0.3.1 | Apache-2.0 | https://github.com/wwylele/astc-decode |
@@ -60,7 +60,7 @@ This application directly depends on the following open source software.
 | @codemirror/lang-json | 6.0.2 | MIT | https://github.com/codemirror/lang-json.git |
 | @codemirror/lang-xml | 6.1.0 | MIT | https://github.com/codemirror/lang-xml.git |
 | @codemirror/theme-one-dark | 6.1.3 | MIT | https://github.com/codemirror/theme-one-dark.git |
-| @tanstack/react-table | 8.21.3 | MIT | https://github.com/TanStack/table.git |
+| @tanstack/react-table | 9.1.2 | MIT | https://github.com/TanStack/table.git |
 | @tauri-apps/api | 2.11.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
 | @tauri-apps/plugin-dialog | 2.7.1 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
 | @tauri-apps/plugin-opener | 2.5.4 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
