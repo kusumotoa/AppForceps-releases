@@ -25,7 +25,7 @@ This application directly depends on the following open source software.
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
-| uuid | 1.24.1 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
+| uuid | 1.25.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
 | thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
@@ -36,7 +36,7 @@ This application directly depends on the following open source software.
 | flate2 | 1.1.9 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
 | libc | 0.2.189 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
-| quick-xml | 0.41.0 | MIT | https://github.com/tafia/quick-xml |
+| quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
 | clap | 4.6.6 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
