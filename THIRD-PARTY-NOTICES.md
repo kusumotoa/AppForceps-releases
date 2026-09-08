@@ -10,11 +10,11 @@ This application directly depends on the following open source software.
 | Name | Version | License | Repository |
 |---|---|---|---|
 | tauri | 2.11.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
-| tauri-plugin-dialog | 2.7.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-opener | 2.5.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-single-instance | 2.4.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-dialog | 2.7.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-opener | 2.5.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-single-instance | 2.4.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-window-state | 2.4.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-updater | 2.10.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-updater | 2.11.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | serde | 1.0.229 | MIT OR Apache-2.0 | https://github.com/serde-rs/serde |
 | serde_json | 1.0.151 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
 | tokio | 1.53.1 | MIT | https://github.com/tokio-rs/tokio |
@@ -25,7 +25,7 @@ This application directly depends on the following open source software.
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
-| uuid | 1.25.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
+| uuid | 1.26.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
 | thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
@@ -33,7 +33,7 @@ This application directly depends on the following open source software.
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
 | zip | 8.6.0 | MIT | https://github.com/zip-rs/zip2 |
-| flate2 | 1.1.9 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
+| flate2 | 1.1.10 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
 | libc | 0.2.189 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
