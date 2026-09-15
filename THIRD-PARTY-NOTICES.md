@@ -20,7 +20,7 @@ This application directly depends on the following open source software.
 | tokio | 1.53.1 | MIT | https://github.com/tokio-rs/tokio |
 | plist | 1.10.0 | MIT | https://github.com/ebarnard/rust-plist/ |
 | chrono | 0.4.45 | MIT OR Apache-2.0 | https://github.com/chronotope/chrono |
-| dirs | 6.0.0 | MIT OR Apache-2.0 | https://github.com/soc/dirs-rs |
+| dirs | 7.0.0 | MIT OR Apache-2.0 | https://codeberg.org/dirs/dirs-rs |
 | rusqlite | 0.40.2 | MIT | https://github.com/rusqlite/rusqlite |
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
@@ -29,7 +29,7 @@ This application directly depends on the following open source software.
 | thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
-| rustls | 0.23.43 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
+| rustls | 0.23.45 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
 | zip | 8.6.0 | MIT | https://github.com/zip-rs/zip2 |
