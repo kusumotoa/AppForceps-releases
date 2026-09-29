@@ -3,7 +3,7 @@
 AppForceps は以下のオープンソースソフトウェアを直接利用しています。
 This application directly depends on the following open source software.
 
-(Rust direct dependencies: 44, npm runtime dependencies: 14)
+(Rust direct dependencies: 44, npm runtime dependencies: 17)
 
 ## Rust (Cargo) Dependencies
 
@@ -25,10 +25,10 @@ This application directly depends on the following open source software.
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
-| uuid | 1.26.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
+| uuid | 1.26.1 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
 | thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
-| reqwest | 0.13.4 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
+| reqwest | 0.13.5 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
 | rustls | 0.23.45 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
@@ -38,7 +38,7 @@ This application directly depends on the following open source software.
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
-| clap | 4.6.6 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
+| clap | 4.6.7 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
 | regex | 1.13.1 | MIT OR Apache-2.0 | https://github.com/rust-lang/regex |
 | lzfse_rust | 0.2.1 | MIT OR Apache-2.0 | https://github.com/shampoofactory/lzfse_rust |
@@ -58,9 +58,12 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
+| @codemirror/commands | 6.10.3 | MIT | https://github.com/codemirror/commands.git |
 | @codemirror/lang-json | 6.0.2 | MIT | https://github.com/codemirror/lang-json.git |
 | @codemirror/lang-xml | 6.1.0 | MIT | https://github.com/codemirror/lang-xml.git |
+| @codemirror/language | 6.12.3 | MIT | https://github.com/codemirror/language.git |
 | @codemirror/theme-one-dark | 6.1.3 | MIT | https://github.com/codemirror/theme-one-dark.git |
+| @lezer/highlight | 1.2.3 | MIT | https://github.com/lezer-parser/highlight.git |
 | @tanstack/react-table | 9.1.2 | MIT | https://github.com/TanStack/table.git |
 | @tauri-apps/api | 2.11.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
 | @tauri-apps/plugin-dialog | 2.7.1 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
