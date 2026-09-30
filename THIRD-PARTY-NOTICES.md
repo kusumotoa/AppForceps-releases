@@ -9,12 +9,12 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
-| tauri | 2.11.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
+| tauri | 2.11.6 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
 | tauri-plugin-dialog | 2.7.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-opener | 2.5.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-single-instance | 2.4.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-single-instance | 2.4.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-window-state | 2.4.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-updater | 2.11.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-updater | 2.12.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | serde | 1.0.229 | MIT OR Apache-2.0 | https://github.com/serde-rs/serde |
 | serde_json | 1.0.151 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
 | tokio | 1.53.1 | MIT | https://github.com/tokio-rs/tokio |
@@ -37,7 +37,7 @@ This application directly depends on the following open source software.
 | libc | 0.2.189 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
-| rand | 0.10.2 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
+| rand | 0.10.3 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
 | clap | 4.6.7 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
 | sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
 | regex | 1.13.1 | MIT OR Apache-2.0 | https://github.com/rust-lang/regex |
