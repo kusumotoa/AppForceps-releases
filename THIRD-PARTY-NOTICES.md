@@ -9,15 +9,15 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
-| tauri | 2.12.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
+| tauri | 2.12.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
 | tauri-plugin-dialog | 2.8.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-opener | 2.5.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-opener | 2.7.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-single-instance | 2.5.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-window-state | 2.5.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-updater | 2.13.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-updater | 2.14.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | serde | 1.0.229 | MIT OR Apache-2.0 | https://github.com/serde-rs/serde |
 | serde_json | 1.0.151 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
-| tokio | 1.53.1 | MIT | https://github.com/tokio-rs/tokio |
+| tokio | 1.53.2 | MIT | https://github.com/tokio-rs/tokio |
 | plist | 1.10.0 | MIT | https://github.com/ebarnard/rust-plist/ |
 | chrono | 0.4.45 | MIT OR Apache-2.0 | https://github.com/chronotope/chrono |
 | dirs | 7.0.0 | MIT OR Apache-2.0 | https://codeberg.org/dirs/dirs-rs |
@@ -25,16 +25,16 @@ This application directly depends on the following open source software.
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
-| uuid | 1.26.1 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
-| thiserror | 2.0.20 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
+| uuid | 1.28.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
+| thiserror | 2.0.21 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.5 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
-| rustls | 0.23.45 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
+| rustls | 0.23.46 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
-| zip | 8.6.0 | MIT | https://github.com/zip-rs/zip2 |
+| zip | 9.0.4 | MIT | https://github.com/zip-rs/zip2 |
 | flate2 | 1.1.10 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
-| libc | 0.2.189 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
+| libc | 0.2.190 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.3 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
@@ -50,7 +50,7 @@ This application directly depends on the following open source software.
 | objc2-core-foundation | 0.3.2 | Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 |
 | objc2-vision | 0.3.2 | Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 |
 | objc2-foundation | 0.3.2 | MIT | https://github.com/madsmtm/objc2 |
-| objc2 | 0.6.4 | MIT | https://github.com/madsmtm/objc2 |
+| objc2 | 0.6.5 | MIT | https://github.com/madsmtm/objc2 |
 | block2 | 0.6.2 | MIT | https://github.com/madsmtm/objc2 |
 | dispatch2 | 0.3.1 | Zlib OR Apache-2.0 OR MIT | https://github.com/madsmtm/objc2 |
 
