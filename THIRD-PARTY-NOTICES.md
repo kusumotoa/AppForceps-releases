@@ -9,15 +9,15 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
-| tauri | 2.12.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
-| tauri-plugin-dialog | 2.8.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-opener | 2.7.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-single-instance | 2.5.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri | 2.12.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
+| tauri-plugin-dialog | 2.8.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-opener | 2.7.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-single-instance | 2.5.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-window-state | 2.5.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-updater | 2.14.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | serde | 1.0.229 | MIT OR Apache-2.0 | https://github.com/serde-rs/serde |
-| serde_json | 1.0.151 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
-| tokio | 1.53.2 | MIT | https://github.com/tokio-rs/tokio |
+| serde_json | 1.0.154 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
+| tokio | 1.53.3 | MIT | https://github.com/tokio-rs/tokio |
 | plist | 1.10.0 | MIT | https://github.com/ebarnard/rust-plist/ |
 | chrono | 0.4.45 | MIT OR Apache-2.0 | https://github.com/chronotope/chrono |
 | dirs | 7.0.0 | MIT OR Apache-2.0 | https://codeberg.org/dirs/dirs-rs |
@@ -39,7 +39,7 @@ This application directly depends on the following open source software.
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.3 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
 | clap | 4.6.7 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
-| sha2 | 0.11.0 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
+| sha2 | 0.11.1 | MIT OR Apache-2.0 | https://github.com/RustCrypto/hashes |
 | regex | 1.13.1 | MIT OR Apache-2.0 | https://github.com/rust-lang/regex |
 | lzfse_rust | 0.2.1 | MIT OR Apache-2.0 | https://github.com/shampoofactory/lzfse_rust |
 | astc-decode | 0.3.1 | Apache-2.0 | https://github.com/wwylele/astc-decode |
@@ -58,19 +58,19 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
-| @codemirror/commands | 6.10.3 | MIT | https://github.com/codemirror/commands.git |
+| @codemirror/commands | 6.11.1 | MIT | https://code.haverbeke.berlin/codemirror/commands.git |
 | @codemirror/lang-json | 6.0.2 | MIT | https://github.com/codemirror/lang-json.git |
 | @codemirror/lang-xml | 6.1.0 | MIT | https://github.com/codemirror/lang-xml.git |
-| @codemirror/language | 6.12.3 | MIT | https://github.com/codemirror/language.git |
+| @codemirror/language | 6.13.1 | MIT | https://code.haverbeke.berlin/codemirror/language.git |
 | @codemirror/theme-one-dark | 6.1.3 | MIT | https://github.com/codemirror/theme-one-dark.git |
-| @lezer/highlight | 1.2.3 | MIT | https://github.com/lezer-parser/highlight.git |
-| @tanstack/react-table | 9.1.2 | MIT | https://github.com/TanStack/table.git |
-| @tauri-apps/api | 2.12.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
-| @tauri-apps/plugin-dialog | 2.8.0 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
-| @uiw/react-codemirror | 4.25.11 | MIT | https://github.com/uiwjs/react-codemirror.git |
-| i18next | 26.3.6 | MIT | https://github.com/i18next/i18next.git |
+| @lezer/highlight | 1.2.5 | MIT | https://code.haverbeke.berlin/lezer/highlight.git |
+| @tanstack/react-table | 9.3.1 | MIT | https://github.com/TanStack/table.git |
+| @tauri-apps/api | 2.12.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
+| @tauri-apps/plugin-dialog | 2.8.2 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
+| @uiw/react-codemirror | 4.25.12 | MIT | https://github.com/uiwjs/react-codemirror.git |
+| i18next | 26.4.4 | MIT | https://github.com/i18next/i18next.git |
 | json5 | 2.2.3 | MIT | https://github.com/json5/json5.git |
-| react | 19.2.7 | MIT | https://github.com/facebook/react.git |
-| react-dom | 19.2.7 | MIT | https://github.com/facebook/react.git |
-| react-i18next | 17.0.9 | MIT | https://github.com/i18next/react-i18next.git |
-| zustand | 5.0.14 | MIT | https://github.com/pmndrs/zustand.git |
+| react | 19.3.0 | MIT | https://github.com/react/react.git |
+| react-dom | 19.3.0 | MIT | https://github.com/react/react.git |
+| react-i18next | 17.0.16 | MIT | https://github.com/i18next/react-i18next.git |
+| zustand | 5.0.15 | MIT | https://github.com/pmndrs/zustand.git |
