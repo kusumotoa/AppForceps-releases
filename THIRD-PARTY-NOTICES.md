@@ -9,15 +9,15 @@ This application directly depends on the following open source software.
 
 | Name | Version | License | Repository |
 |---|---|---|---|
-| tauri | 2.12.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
-| tauri-plugin-dialog | 2.8.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-opener | 2.7.1 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
-| tauri-plugin-single-instance | 2.5.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri | 2.12.5 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri |
+| tauri-plugin-dialog | 2.8.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-opener | 2.7.2 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
+| tauri-plugin-single-instance | 2.5.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-window-state | 2.5.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | tauri-plugin-updater | 2.14.0 | Apache-2.0 OR MIT | https://github.com/tauri-apps/plugins-workspace |
 | serde | 1.0.229 | MIT OR Apache-2.0 | https://github.com/serde-rs/serde |
 | serde_json | 1.0.154 | MIT OR Apache-2.0 | https://github.com/serde-rs/json |
-| tokio | 1.53.3 | MIT | https://github.com/tokio-rs/tokio |
+| tokio | 1.54.1 | MIT | https://github.com/tokio-rs/tokio |
 | plist | 1.10.0 | MIT | https://github.com/ebarnard/rust-plist/ |
 | chrono | 0.4.45 | MIT OR Apache-2.0 | https://github.com/chronotope/chrono |
 | dirs | 7.0.0 | MIT OR Apache-2.0 | https://codeberg.org/dirs/dirs-rs |
@@ -32,10 +32,10 @@ This application directly depends on the following open source software.
 | rustls | 0.23.46 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
-| zip | 9.0.4 | MIT | https://github.com/zip-rs/zip2 |
+| zip | 9.0.5 | MIT | https://github.com/zip-rs/zip2 |
 | flate2 | 1.1.10 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
-| libc | 0.2.190 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
-| rusty-leveldb | 4.0.1 | MIT | https://github.com/dermesser/leveldb-rs |
+| libc | 0.2.191 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
+| rusty-leveldb | 4.0.2 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
 | rand | 0.10.3 | MIT OR Apache-2.0 | https://github.com/rust-random/rand |
 | clap | 4.6.7 | MIT OR Apache-2.0 | https://github.com/clap-rs/clap |
@@ -65,12 +65,12 @@ This application directly depends on the following open source software.
 | @codemirror/theme-one-dark | 6.1.3 | MIT | https://github.com/codemirror/theme-one-dark.git |
 | @lezer/highlight | 1.2.5 | MIT | https://code.haverbeke.berlin/lezer/highlight.git |
 | @tanstack/react-table | 9.3.1 | MIT | https://github.com/TanStack/table.git |
-| @tauri-apps/api | 2.12.3 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
-| @tauri-apps/plugin-dialog | 2.8.2 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
+| @tauri-apps/api | 2.12.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
+| @tauri-apps/plugin-dialog | 2.8.3 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
 | @uiw/react-codemirror | 4.25.12 | MIT | https://github.com/uiwjs/react-codemirror.git |
-| i18next | 26.4.4 | MIT | https://github.com/i18next/i18next.git |
+| i18next | 26.5.4 | MIT | https://github.com/i18next/i18next.git |
 | json5 | 2.2.3 | MIT | https://github.com/json5/json5.git |
-| react | 19.3.0 | MIT | https://github.com/react/react.git |
-| react-dom | 19.3.0 | MIT | https://github.com/react/react.git |
-| react-i18next | 17.0.16 | MIT | https://github.com/i18next/react-i18next.git |
+| react | 19.3.1 | MIT | https://github.com/react/react.git |
+| react-dom | 19.3.1 | MIT | https://github.com/react/react.git |
+| react-i18next | 17.1.0 | MIT | https://github.com/i18next/react-i18next.git |
 | zustand | 5.0.15 | MIT | https://github.com/pmndrs/zustand.git |
