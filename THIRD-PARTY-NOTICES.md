@@ -3,7 +3,7 @@
 AppForceps は以下のオープンソースソフトウェアを直接利用しています。
 This application directly depends on the following open source software.
 
-(Rust direct dependencies: 44, npm runtime dependencies: 16)
+(Rust direct dependencies: 44, npm runtime dependencies: 17)
 
 ## Rust (Cargo) Dependencies
 
@@ -62,6 +62,7 @@ This application directly depends on the following open source software.
 | @codemirror/lang-json | 6.0.2 | MIT | https://github.com/codemirror/lang-json.git |
 | @codemirror/lang-xml | 6.1.0 | MIT | https://github.com/codemirror/lang-xml.git |
 | @codemirror/language | 6.13.1 | MIT | https://code.haverbeke.berlin/codemirror/language.git |
+| @codemirror/state | 6.7.6 | MIT | https://code.haverbeke.berlin/codemirror/state.git |
 | @codemirror/theme-one-dark | 6.1.3 | MIT | https://github.com/codemirror/theme-one-dark.git |
 | @lezer/highlight | 1.2.5 | MIT | https://code.haverbeke.berlin/lezer/highlight.git |
 | @tanstack/react-table | 9.3.1 | MIT | https://github.com/TanStack/table.git |
