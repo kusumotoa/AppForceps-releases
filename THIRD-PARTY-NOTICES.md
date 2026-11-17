@@ -25,15 +25,15 @@ This application directly depends on the following open source software.
 | walkdir | 2.5.0 | Unlicense/MIT | https://github.com/BurntSushi/walkdir |
 | infer | 0.22.0 | MIT | https://github.com/bojand/infer |
 | tempfile | 3.27.0 | MIT OR Apache-2.0 | https://github.com/Stebalien/tempfile |
-| uuid | 1.29.0 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
+| uuid | 1.29.2 | Apache-2.0 OR MIT | https://github.com/uuid-rs/uuid |
 | thiserror | 2.0.21 | MIT OR Apache-2.0 | https://github.com/dtolnay/thiserror |
 | base64 | 0.23.1 | MIT OR Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | reqwest | 0.13.5 | MIT OR Apache-2.0 | https://github.com/seanmonstar/reqwest |
 | rustls | 0.23.46 | Apache-2.0 OR ISC OR MIT | https://github.com/rustls/rustls |
 | ring | 0.17.14 | Apache-2.0 AND ISC | https://github.com/briansmith/ring |
 | rayon | 1.12.0 | MIT OR Apache-2.0 | https://github.com/rayon-rs/rayon |
-| zip | 9.1.3 | MIT | https://github.com/zip-rs/zip2 |
-| flate2 | 1.1.10 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
+| zip | 9.5.0 | MIT | https://github.com/zip-rs/zip2 |
+| flate2 | 1.1.11 | MIT OR Apache-2.0 | https://github.com/rust-lang/flate2-rs |
 | libc | 0.2.191 | MIT OR Apache-2.0 | https://github.com/rust-lang/libc |
 | rusty-leveldb | 4.0.2 | MIT | https://github.com/dermesser/leveldb-rs |
 | quick-xml | 0.42.0 | MIT | https://github.com/tafia/quick-xml |
@@ -67,11 +67,11 @@ This application directly depends on the following open source software.
 | @lezer/highlight | 1.2.5 | MIT | https://code.haverbeke.berlin/lezer/highlight.git |
 | @tanstack/react-table | 9.3.1 | MIT | https://github.com/TanStack/table.git |
 | @tauri-apps/api | 2.12.4 | Apache-2.0 OR MIT | https://github.com/tauri-apps/tauri.git |
-| @tauri-apps/plugin-dialog | 2.8.3 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
+| @tauri-apps/plugin-dialog | 2.8.4 | MIT OR Apache-2.0 | https://github.com/tauri-apps/plugins-workspace |
 | @uiw/react-codemirror | 4.25.12 | MIT | https://github.com/uiwjs/react-codemirror.git |
-| i18next | 26.5.11 | MIT | https://github.com/i18next/i18next.git |
+| i18next | 27.1.0 | MIT | https://github.com/i18next/i18next.git |
 | json5 | 2.2.3 | MIT | https://github.com/json5/json5.git |
 | react | 19.3.1 | MIT | https://github.com/react/react.git |
 | react-dom | 19.3.1 | MIT | https://github.com/react/react.git |
-| react-i18next | 17.1.9 | MIT | https://github.com/i18next/react-i18next.git |
-| zustand | 5.0.16 | MIT | https://github.com/pmndrs/zustand.git |
+| react-i18next | 18.0.1 | MIT | https://github.com/i18next/react-i18next.git |
+| zustand | 5.1.0 | MIT | https://github.com/pmndrs/zustand.git |
